@@ -1,0 +1,79 @@
+#formLogin , #formSignUp {
+    padding-top: 20px;
+    width: 75%;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+}
+body{
+    padding-top: 350px;
+    text-align: center;
+ 
+    width: 100%;
+    position: inherit;
+    left:13%
+}
+
+#bdyn{
+    max-width: 1200px;
+
+}
+
+aside{
+    float:left;
+    border:solid 5px;
+    text-align: center;
+}
+
+footer{
+    
+}
+
+#lstitm{
+    display:block;
+    padding-bottom: 10px;
+    padding-right: 25px;
+}
+
+#freeS{
+    padding-bottom: 15px;
+    border: solid;
+
+
+}
+
+#ps1{
+    padding-bottom: 15px;
+    padding-top: 5px;
+    border: solid;
+    margin-top:15px;
+
+}
+
+#ps2{
+    padding-top: 5px;
+    border  : solid;
+    margin-top:15px;
+}
+
+table{
+    border:solid 3px;
+    width: 100%;
+}
+
+#apiBtn{
+    margin-top:15px;
+}
+
+#btnSub{
+     margin-top:15px;
+}
+
+
+
